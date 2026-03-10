@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hola, soy Axel 👋
 
-<!--
-**Axew25/Axew25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Soy estudiante de informática y actualmente estoy ampliando mis conocimientos en diferentes áreas de la tecnología. Me interesa especialmente el mundo de los sistemas, el hardware y el desarrollo tecnológico.
 
-Here are some ideas to get you started:
+## Sobre mí
+- 🎓 Estudiante de informática
+- 💻 Interesado en sistemas, hardware y tecnología
+- 📚 En constante aprendizaje y mejora de habilidades técnicas
+- 🤝 Capaz de trabajar en equipo y también de forma autónoma
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Objetivo
+Mi objetivo es seguir desarrollándome como profesional dentro del sector tecnológico, adquiriendo experiencia práctica y participando en proyectos que me permitan seguir aprendiendo.
+
+---
+
+*"La tecnología se entiende mejor cuando se aprende haciéndola funcionar desde dentro."*
